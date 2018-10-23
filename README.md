@@ -1,2 +1,1 @@
-# think-computer.github.io
-김예찬의 NEW 웹 페이지입니다.
+본 프로젝트는 https://startbootstrap.com/template-overviews/stylish-portfolio/에 게시된 자료를 Fork하여 사용한 것입니다.
